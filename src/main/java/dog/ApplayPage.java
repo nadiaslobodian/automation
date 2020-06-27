@@ -12,8 +12,12 @@ public class ApplayPage extends BasePage {
         super(driver);
     }
 
+    //Email Field
+
     @FindBy(css = "input[name=email]")
     private WebElement emailField;
+
+    //Password Field
 
     @FindBy(css = "input[name=\"password\"]")
     private WebElement passwordField;
@@ -29,37 +33,27 @@ public class ApplayPage extends BasePage {
 
 
     public void inputEmailField(String email) {
-
         wait.until(ExpectedConditions.elementToBeClickable(emailField));
-
         emailField.sendKeys(email);
     }
 
     public void inputPasswordField(String password) {
-
         wait.until(ExpectedConditions.elementToBeClickable(passwordField));
-
         passwordField.sendKeys(password);
     }
 
     public void inputFirstName(String firstName) {
-
         wait.until(ExpectedConditions.elementToBeClickable(firstNameField));
-
         firstNameField.sendKeys(firstName);
     }
 
     public void inputLastNameField(String lastName) {
-
         wait.until(ExpectedConditions.elementToBeClickable(lastNameField));
-
         lastNameField.sendKeys(lastName);
     }
 
     public void inputPhoneField(String phone) {
-
         wait.until(ExpectedConditions.elementToBeClickable(phoneField));
-
         phoneField.sendKeys(phone);
     }
 
