@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fb96c91-6c01-4cf3-8309-158490f69e38" name="Default Changelist" comment="" />
+    <list default="true" id="0fb96c91-6c01-4cf3-8309-158490f69e38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dog/ApplayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dog/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dog/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dog/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dog/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/BookWalkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/TestInvalidEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/base/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/base/ForthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/base/SecondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dog/base/ThirdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/automation.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dog/ApplayPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dog/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dog/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dog/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dog/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/automation.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/BookWalkTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/TestInvalidEmail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/base/FirstTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/base/ForthTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/base/SecondTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dog/base/ThirdTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +49,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +60,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cn4KcqoaWvWhbh54YOBeM4yj5y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

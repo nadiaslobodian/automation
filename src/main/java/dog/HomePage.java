@@ -12,6 +12,8 @@ public class HomePage extends BasePage {
         super(driver);
     }
 
+    //WebElements
+
     @FindBy(css = ".sc-bxivhb.dmgvyV")
     private WebElement bookWalkButton;
 
